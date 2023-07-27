@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.06e74192.css",
+    "main.js": "/static/js/main.cadecb40.js",
+    "static/media/Untime – Loader [gif].gif": "/static/media/Untime – Loader [gif].cd5855b40e8af1862254.gif",
+    "index.html": "/index.html",
+    "main.06e74192.css.map": "/static/css/main.06e74192.css.map",
+    "main.cadecb40.js.map": "/static/js/main.cadecb40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06e74192.css",
+    "static/js/main.cadecb40.js"
+  ]
+}
